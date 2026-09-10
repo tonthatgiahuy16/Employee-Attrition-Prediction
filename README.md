@@ -22,7 +22,7 @@ The goal is to help organizations identify at-risk employees and develop retenti
 
 ## Dataset
 
-The dataset contains employee information such as:
+**Source:** [Employee Future Prediction](https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction) by Tejashvi on Kaggle.<br>**License:** CC0: Public Domain, as listed on Kaggle.<br><br>The dataset contains employee information such as:
 
 - Employee Age
 - Gender
@@ -187,7 +187,7 @@ employee_attrition_prediction.ipynb
 
 Ton That Gia Huy
 
-Final-Year Information Technology Student
+Final-Year Data Science Student
 
 Interested in:
 
